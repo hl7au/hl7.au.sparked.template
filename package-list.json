@@ -1,0 +1,15 @@
+﻿{
+  "package-id" : "hl7.au.sparked.template",
+  "title" : "Template for Sparked FHIR IGs published by HL7",
+  "canonical" : "http://fhir.org/templates/hl7.au.sparked.template",
+  "introduction" : "This is the basic template for Sparked FHIR guides published by HL7 Australia",
+  "list" : [
+    {
+      "version" : "current",
+      "desc" : "Continuous Integration Build (latest in version control)",
+      "path" : "https://build.fhir.org/ig/HL7au/hl7.au.sparked.template",
+      "status" : "ci-build",
+      "current" : true
+    }
+  ]
+}

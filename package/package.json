@@ -1,0 +1,13 @@
+﻿{
+  "name" : "hl7.au.sparked.template",
+  "type" : "fhir.template",
+  "license" : "CC0-1.0",
+  "description" : "HL7 Sparked Template - for use with HL7 Australia Sparked-published FHIR IGs",
+  "author" : "http://hl7.org/fhir",
+  "canonical" : "http://fhir.org/templates/hl7.au.sparked.template",
+  "base" : "hl7.au.fhir.template",
+  "dependencies" : {
+    "hl7.au.fhir.template" : "current"
+  },
+  "version" : "0.1.0"
+}
