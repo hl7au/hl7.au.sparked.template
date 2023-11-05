@@ -10,6 +10,16 @@
       "path" : "https://build.fhir.org/ig/HL7au/hl7.au.sparked.template",
       "status" : "ci-build",
       "current" : true
+    },
+    {
+      "version" : "0.1.0",
+      "desc" : "First Release",
+      "path" : "http://fhir.org/templates/hl7.au.sparked.template/0.1.0",
+      "status" : "release",
+      "sequence" : "Publications",
+      "fhirversion" : "4.0.1",
+      "date" : "2023-11-05",
+      "current" : true
     }
   ]
 }
