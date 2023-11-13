@@ -1,8 +1,8 @@
 ﻿{
   "package-id" : "hl7.au.sparked.template",
-  "title" : "Template for Sparked FHIR IGs published by HL7",
+  "title" : "Base template for Sparked FHIR IGs published by HL7 Australia",
   "canonical" : "http://fhir.org/templates/hl7.au.sparked.template",
-  "introduction" : "This is the basic template for Sparked FHIR guides published by HL7 Australia",
+  "introduction" : "This is the template for FHIR implementation guides published by HL7 Australia as part of Sparked program",
   "list" : [
     {
       "version" : "current",
