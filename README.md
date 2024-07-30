@@ -4,6 +4,3 @@ This template is based on package `hl7.au.fhir.template`. Adds Sparked logo.
 
 ## Package ID
 package id = `hl7.au.sparked.template`
-
-
-
