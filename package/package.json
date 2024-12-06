@@ -7,7 +7,7 @@
   "canonical" : "http://fhir.org/templates/hl7.au.sparked.template",
   "base" : "hl7.au.fhir.template",
   "dependencies" : {
-    "hl7.au.fhir.template" : "current"
+    "hl7.au.fhir.template" : "0.11.0"
   },
-  "version" : "0.5.0"
+  "version" : "0.6.0"
 }
